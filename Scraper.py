@@ -1,0 +1,1 @@
+#Here I will be building the scraper needed to gather rental prices data for Guadalajara
